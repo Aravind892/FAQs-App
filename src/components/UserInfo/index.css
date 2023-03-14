@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile {
+  height: 200px;
+  width: 200px;
+}
+.name {
+  font-size: 28px;
+  font-weight: bold;
+  color: #12022f;
+}
+.designation {
+  color: #616e7c;
+  font-size: 22px;
+}

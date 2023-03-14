@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.list-items {
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading1 {
+  color: #12022f;
+  font-size: 20px;
+}
+.heading2 {
+  color: #9aa5b1;
+  font-size: 18px;
+  font-weight: 400;
+}
+.para {
+  color: #9aa5b1;
+  font-size: 18px;
+}
